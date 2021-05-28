@@ -18,6 +18,10 @@ class TopController extends Controller
         return view('top');
     }
 
+    public function doglist(){
+        return view('dog_list');
+    }
+
 
     public function about(){
         return view('about');

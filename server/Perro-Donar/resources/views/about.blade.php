@@ -2,7 +2,7 @@
 @include('layouts.header')
 @include('layouts.footer')
 @section('contents')
-    <section class="section-container">
+    <section class="section-container2">
       <h2 class="text-center text-white pt-5 description-title">「わんちゃん好き」と「愛犬」をつなげるプラットフォーム
       </h2>
       <div class="mt-5 text-center">
